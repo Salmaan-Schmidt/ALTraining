@@ -1,0 +1,12 @@
+{
+    "name": "MyRuleSet",
+    "description": "Description",
+    "rules": [
+        {
+            "id": "AA0215",
+            "action": "none",
+            "justification": "Ignore rename"
+        }
+    ]
+}
+
